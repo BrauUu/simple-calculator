@@ -157,7 +157,6 @@ export default function Calculator() {
 
     return (
         <div className='calculator'>
-            {values[0] + ',' + values[1]}
             <Display value={displayValue} />
             {
                 buttons.map((button, i) => {
