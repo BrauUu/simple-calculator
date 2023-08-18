@@ -7,4 +7,9 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 1fr repeat(5, 62px);
+
+    padding: 16px;
+    background-color: #ceced0;
+
+    box-shadow: 5px 5px 5px #333;
 }

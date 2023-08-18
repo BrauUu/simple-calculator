@@ -15,7 +15,10 @@
     border: none;
     border-right: var(--border-button);
     border-bottom: var(--border-button);
-    outline: none
+    outline: none;
+
+    margin: 5px;
+    border-radius: 5px;
 }
 
 .button:active {
