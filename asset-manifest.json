@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.089feea8.css",
+    "main.js": "/static/js/main.aa450c6f.js",
+    "static/media/RobotoMono-VariableFont_wght.ttf": "/static/media/RobotoMono-VariableFont_wght.2ccde177314ac34f20b8.ttf",
+    "index.html": "/index.html",
+    "main.089feea8.css.map": "/static/css/main.089feea8.css.map",
+    "main.aa450c6f.js.map": "/static/js/main.aa450c6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089feea8.css",
+    "static/js/main.aa450c6f.js"
+  ]
+}
